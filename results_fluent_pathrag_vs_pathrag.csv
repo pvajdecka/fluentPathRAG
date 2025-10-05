@@ -1,0 +1,9 @@
+query,gold,ans_concat,EM_concat,F1_concat,ans_fluent,EM_fluent,F1_fluent
+What is the capital of the country where the European Central Bank is headquartered?,Berlin,,0,0.000,,0,0.000
+Which sea borders the country whose capital is Tbilisi?,Black Sea | the Black Sea,,0,0.000,Insufficient context.,0,0.000
+"Which capital city is farther north, the capital of the United Kingdom or the capital of France?",London,,0,0.000,,0,0.000
+Which company currently owns Instagram?,"Meta | Meta Platforms | Meta Platforms, Inc.",,0,0.000,,0,0.000
+Into which ocean does the river that runs through Portugal's capital flow?,Atlantic Ocean | Atlantic,,0,0.000,,0,0.000
+Which cellular structure is the site of protein synthesis in the type of cell that contains chlorophyll?,Ribosomes | Ribosome,,0,0.000,,0,0.000
+Which river flows through the capital of the country that borders both Germany and Russia?,Vistula | Vistula River,,0,0.000,,0,0.000
+Which river flows through the capital of the country where Ludwig van Beethoven was born?,Spree | Spree River,,0,0.000,,0,0.000

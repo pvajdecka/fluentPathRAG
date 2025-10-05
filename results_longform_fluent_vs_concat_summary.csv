@@ -1,0 +1,5 @@
+model,mode,n_examples,mean_rouge1,mean_rougeL,mean_bleu,mean_bertscore_f1
+gpt-4.1,concat,5,0.6857,0.5508,0.2918,0.0000
+gpt-4.1,fluent,5,0.6805,0.5764,0.2993,0.0000
+gpt-4o,concat,5,0.6436,0.4622,0.2539,0.0000
+gpt-4o,fluent,5,0.6484,0.5399,0.2687,0.0000

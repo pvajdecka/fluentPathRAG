@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "rag-eval-fluent-vs-concat"
+version = "0.1.0"
+description = "Evaluate FluentPathRAG vs PathRAG-style concatenation on long-form answers with ROUGE/BLEU/BERTScore"
+readme = "README.md"
+authors = [{ name = "Peter Vajdecka" }]
+requires-python = ">=3.9"
